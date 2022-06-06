@@ -1,4 +1,4 @@
-# Deep-Learning-Abnomal-Neural-Cell-detection
+# Deep-Learning-Abnormal-Neural-Cell-detection
 Team Members:
 - Ishan Kanungo
 - Sarthak Khanna
